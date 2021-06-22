@@ -10,3 +10,9 @@ br.com.PanelAPI : Has the json api endpoint consumed by the front-end applicatio
 br.com.Model : Location with object classes used in every solution.
 
 br.com.AuthServer : Project with identityserver4 where a web token is generated and controls the access permissions of the br.com.PanelAPI project.
+
+br.com.Repository : Project that has business rules such as persistence, repository, libraries and interface.
+
+br.com.EmailService : Project with implementation of sending SMTP email used by the project.
+
+- Project Front-End (vue-element-admin-i18n)
