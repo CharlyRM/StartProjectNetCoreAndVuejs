@@ -8,3 +8,5 @@ br.com.Panel : where it has the project with the registration pages and JS files
 br.com.PanelAPI : Has the json api endpoint consumed by the front-end application.
 
 br.com.Model : Location with object classes used in every solution.
+
+br.com.AuthServer : Project with identityserver4 where a web token is generated and controls the access permissions of the br.com.PanelAPI project.
