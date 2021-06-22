@@ -15,4 +15,8 @@ br.com.Repository : Project that has business rules such as persistence, reposit
 
 br.com.EmailService : Project with implementation of sending SMTP email used by the project.
 
+- Script (Postgresql)
+
+Run the authentication_user and authentication_user_temp scripts
+
 - Project Front-End (vue-element-admin-i18n)
