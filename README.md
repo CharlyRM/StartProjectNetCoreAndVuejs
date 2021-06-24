@@ -20,3 +20,5 @@ br.com.EmailService : Project with implementation of sending SMTP email used by 
 Run the authentication_user and authentication_user_temp scripts
 
 - Project Front-End (vue-element-admin-i18n)
+
+When making a change to this front-end project, I need to generate the files that go to the br.com.Panel\wwwroot directory using node with the command "npm run build:prod".
