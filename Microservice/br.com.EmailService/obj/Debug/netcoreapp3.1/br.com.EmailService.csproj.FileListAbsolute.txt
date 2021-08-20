@@ -1,0 +1,16 @@
+C:\Users\User\Dropbox\Plataforma\Microservico\br.com.EmailService\bin\Debug\netcoreapp3.1\br.com.EmailService.deps.json
+C:\Users\User\Dropbox\Plataforma\Microservico\br.com.EmailService\bin\Debug\netcoreapp3.1\br.com.EmailService.dll
+C:\Users\User\Dropbox\Plataforma\Microservico\br.com.EmailService\bin\Debug\netcoreapp3.1\br.com.EmailService.pdb
+C:\Users\User\Dropbox\Plataforma\Microservico\br.com.EmailService\obj\Debug\netcoreapp3.1\br.com.EmailService.csprojAssemblyReference.cache
+C:\Users\User\Dropbox\Plataforma\Microservico\br.com.EmailService\obj\Debug\netcoreapp3.1\br.com.EmailService.AssemblyInfoInputs.cache
+C:\Users\User\Dropbox\Plataforma\Microservico\br.com.EmailService\obj\Debug\netcoreapp3.1\br.com.EmailService.AssemblyInfo.cs
+C:\Users\User\Dropbox\Plataforma\Microservico\br.com.EmailService\obj\Debug\netcoreapp3.1\br.com.EmailService.dll
+C:\Users\User\Dropbox\Plataforma\Microservico\br.com.EmailService\obj\Debug\netcoreapp3.1\br.com.EmailService.pdb
+C:\Users\User\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.EmailService\bin\Debug\netcoreapp3.1\br.com.EmailService.deps.json
+C:\Users\User\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.EmailService\bin\Debug\netcoreapp3.1\br.com.EmailService.dll
+C:\Users\User\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.EmailService\bin\Debug\netcoreapp3.1\br.com.EmailService.pdb
+C:\Users\User\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.EmailService\obj\Debug\netcoreapp3.1\br.com.EmailService.AssemblyInfoInputs.cache
+C:\Users\User\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.EmailService\obj\Debug\netcoreapp3.1\br.com.EmailService.AssemblyInfo.cs
+C:\Users\User\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.EmailService\obj\Debug\netcoreapp3.1\br.com.EmailService.dll
+C:\Users\User\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.EmailService\obj\Debug\netcoreapp3.1\br.com.EmailService.pdb
+C:\Users\User\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.EmailService\obj\Debug\netcoreapp3.1\br.com.EmailService.csprojAssemblyReference.cache

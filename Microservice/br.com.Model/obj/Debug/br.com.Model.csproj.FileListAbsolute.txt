@@ -1,0 +1,8 @@
+C:\Users\User\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.Modelo\bin\Debug\br.com.Modelo.dll
+C:\Users\User\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.Modelo\bin\Debug\br.com.Modelo.pdb
+C:\Users\User\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.Modelo\obj\Debug\br.com.Modelo.dll
+C:\Users\User\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.Modelo\obj\Debug\br.com.Modelo.pdb
+C:\Users\User\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.Model\bin\Debug\br.com.Modelo.dll
+C:\Users\User\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.Model\bin\Debug\br.com.Modelo.pdb
+C:\Users\User\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.Model\obj\Debug\br.com.Modelo.dll
+C:\Users\User\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.Model\obj\Debug\br.com.Modelo.pdb

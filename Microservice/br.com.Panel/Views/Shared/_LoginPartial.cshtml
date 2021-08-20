@@ -1,0 +1,18 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<User> SignInManager
+@inject UserManager<User> UserManager
+<!--
+    Developer Linkedin Inglish : https://br.linkedin.com/in/charly-milhomem-76156637/en
+    Developer Linkedin Português : https://br.linkedin.com/in/charly-milhomem-76156637
+-->
+<ul class="navbar-nav">
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-controller="Account"
+           asp-action="Login">Login</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-controller="Account"
+           asp-action="Register">Create Account</a>
+    </li>
+</ul>
+
