@@ -17,7 +17,7 @@ br.com.EmailService : Project with implementation of sending SMTP email used by 
 
 - Script (Postgresql)
 
-Run the authentication_user and authentication_user_temp scripts which is in the directory "Microservice"
+Run the authentication_user and authentication_user_temp scripts which is in the directory "Service"
 
 After creating a database user in postgresql and running the table scripts configure the connection file in the path br.com.Repository\br.com.Infra\Connection.cs
 
