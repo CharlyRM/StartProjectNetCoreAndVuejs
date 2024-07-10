@@ -6,7 +6,7 @@ My idea with this software project is to create a project that can be used to cr
 
 VueJs, .NET Core, PostgreSQL, Node.js Webpack.
 
-## Component Breakdown: 🎉
+## Back-End Project: 🎉
 
 br.com.API: Contains JSON API endpoints consumed by the front-end application.<br /> 
 
