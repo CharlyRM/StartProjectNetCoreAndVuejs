@@ -1,27 +1,23 @@
-Complete initial project of user registration and login with identityserver4 | VueJs | NET Core | Postgresql | webpack
+Project Overview:
 
-Project Service (IntegrationPlatform)
+Project Name: IntegrationPlatform
+Main Technologies: VueJs, .NET Core, PostgreSQL, webpack.
 
-br.com.Panel: where is the project with the registration pages and JS files generated via npm from the node.js project in webpack.
+Component Breakdown:
 
-br.com.PanelAPI: has the json api endpoint consumed by the front-end application.
+br.com.API: Contains JSON API endpoints consumed by the front-end application.
+br.com.Model: Houses object classes used across all solutions.
+br.com.Repository: Implements business rules such as persistence logic, repository patterns, libraries, and interfaces.
 
-br.com.Model: Location with object classes used in each solution.
+Database Setup: PostgreSQL script to create user tables. After creating a PostgreSQL database user, run table creation scripts.
+Configure database connection settings in br.com.Repository\br.com.Infra\Connection.cs.
 
-br.com.AuthServer: Project with identityserver4 where a web token is generated and controls the access permissions of the br.com.PanelAPI project.
+Authentication:
 
-br.com.Repository: Project that has business rules such as persistence, repository, libraries and interface.
+Utilizes JWT (JSON Web Tokens) for authentication and authorization.
 
-br.com.EmailService: Project with implementation of sending SMTP email used by the project.
+Front-End Project: 
+1 - Single Page Application (SPA) developed in Vue.js.
+2 - JavaScript files compiled via webpack.
 
-Script (Postgresql)
-
-Run the authentication_user and authentication_user_temp scripts that are in the "Service" directory
-
-After creating a database user in postgresql and running the table scripts, configure the connection file in the path br.com.Repository \ br.com.Infra \ Connection.cs
-
-Project front-end (https://panjiachen.github.io/vue-element-admin-site/guide/advanced/i18n.html) generated via npm and placed in br.com.Panel\wwwroot
-
-Setting up the email server with a Gmail account: navigate to br.com.Panel \ appsettings and enter your login and password; It will be used as the sender in the app.
-
-At the end, run the br.com.Panel, br.com.PanelAPI and br.com.AuthServer projects in Visual studio 2019 and register your user on the registration page, confirm the account in the email received and login.
+Development Environment: Developed using Visual Studio 2022 and VS Code

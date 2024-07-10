@@ -1,0 +1,436 @@
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\br.com.API.exe
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\br.com.API.deps.json
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\br.com.API.runtimeconfig.json
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\br.com.API.runtimeconfig.dev.json
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\br.com.API.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\br.com.API.pdb
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\br.com.API.Views.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\br.com.API.Views.pdb
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\MailKit.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\NETCore.MailKit.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\PagedList.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\PagedList.Mvc.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\br.com.DAL.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\br.com.EmailService.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\br.com.Modelo.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Mono.Security.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\br.com.EmailService.pdb
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\br.com.Modelo.pdb
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\br.com.DAL.pdb
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\br.com.DAL.dll.config
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Npgsql.xml
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\de\Npgsql.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\es\Npgsql.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\fi\Npgsql.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\fr\Npgsql.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\ja\Npgsql.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\zh-CN\Npgsql.resources.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.csproj.AssemblyReference.cache
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.AssemblyInfoInputs.cache
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.AssemblyInfo.cs
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.csproj.CoreCompileInputs.cache
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.RazorAssemblyInfo.cache
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.RazorAssemblyInfo.cs
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\staticwebassets\br.com.API.StaticWebAssets.Manifest.cache
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\staticwebassets\br.com.API.StaticWebAssets.xml
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\br.com.API.styles.css
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.TagHelpers.input.cache
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.TagHelpers.output.cache
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.RazorCoreGenerate.cache
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.RazorTargetAssemblyInfo.cache
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.RazorTargetAssemblyInfo.cs
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.Views.pdb
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.csproj.CopyComplete
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.dll
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.pdb
+D:\Documentos\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.genruntimeconfig.cache
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.csproj.AssemblyReference.cache
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.AssemblyInfoInputs.cache
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.AssemblyInfo.cs
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.csproj.CoreCompileInputs.cache
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.RazorAssemblyInfo.cache
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.RazorAssemblyInfo.cs
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.TagHelpers.input.cache
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.TagHelpers.output.cache
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.RazorCoreGenerate.cache
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.pdb
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\br.com.API.exe
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\br.com.API.deps.json
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\br.com.API.runtimeconfig.json
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\br.com.API.runtimeconfig.dev.json
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\br.com.API.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\br.com.API.pdb
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\br.com.API.Views.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\br.com.API.Views.pdb
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\PagedList.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\PagedList.Mvc.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\br.com.DAL.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\br.com.Modelo.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Npgsql.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Mono.Security.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\br.com.Modelo.pdb
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\br.com.DAL.pdb
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\br.com.DAL.dll.config
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Npgsql.xml
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\de\Npgsql.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\es\Npgsql.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\fi\Npgsql.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\fr\Npgsql.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\ja\Npgsql.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\zh-CN\Npgsql.resources.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.RazorTargetAssemblyInfo.cache
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.RazorTargetAssemblyInfo.cs
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.Views.pdb
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\staticwebassets\br.com.API.StaticWebAssets.Manifest.cache
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.genruntimeconfig.cache
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\staticwebassets\br.com.API.StaticWebAssets.Pack.cache
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.br.com.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.br.com.API.props
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.br.com.API.props
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.br.com.API.props
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.csproj.Up2Date
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\RestSharp.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\Documento\DropBox\Dropbox\Plataforma\Microservico - Sistema de Cadastro\br.com.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\br.com.API.exe
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\br.com.API.deps.json
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\br.com.API.runtimeconfig.json
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\br.com.API.runtimeconfig.dev.json
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\br.com.API.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\br.com.API.pdb
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\br.com.API.Views.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\br.com.API.Views.pdb
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\PagedList.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\PagedList.Mvc.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\RestSharp.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\br.com.DAL.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\br.com.Modelo.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\Npgsql.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\Mono.Security.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\br.com.Modelo.pdb
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\br.com.DAL.pdb
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\br.com.DAL.dll.config
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\Npgsql.xml
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\de\Npgsql.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\es\Npgsql.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\fi\Npgsql.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\fr\Npgsql.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\ja\Npgsql.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\bin\Debug\netcoreapp3.1\zh-CN\Npgsql.resources.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.csproj.AssemblyReference.cache
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.AssemblyInfoInputs.cache
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.AssemblyInfo.cs
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.csproj.CoreCompileInputs.cache
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.RazorAssemblyInfo.cache
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.RazorAssemblyInfo.cs
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.TagHelpers.input.cache
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.TagHelpers.output.cache
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.RazorCoreGenerate.cache
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.RazorTargetAssemblyInfo.cache
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.RazorTargetAssemblyInfo.cs
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.Views.pdb
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\obj\Debug\netcoreapp3.1\staticwebassets\br.com.API.StaticWebAssets.Manifest.cache
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\obj\Debug\netcoreapp3.1\staticwebassets\br.com.API.StaticWebAssets.Pack.cache
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.br.com.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.br.com.API.props
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.br.com.API.props
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.br.com.API.props
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.csproj.Up2Date
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.dll
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.pdb
+E:\Documento\Desktop\Ingles\Back-end\br.com.API\obj\Debug\netcoreapp3.1\br.com.API.genruntimeconfig.cache

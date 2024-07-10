@@ -1,0 +1,158 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Documento\\Desktop\\Ingles\\Back-end\\br.com.API\\br.com.API.csproj": {}
+  },
+  "projects": {
+    "E:\\Documento\\Desktop\\Ingles\\Back-end\\br.com.API\\br.com.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Documento\\Desktop\\Ingles\\Back-end\\br.com.API\\br.com.API.csproj",
+        "projectName": "br.com.API",
+        "projectPath": "E:\\Documento\\Desktop\\Ingles\\Back-end\\br.com.API\\br.com.API.csproj",
+        "packagesPath": "C:\\Users\\ribei\\.nuget\\packages\\",
+        "outputPath": "E:\\Documento\\Desktop\\Ingles\\Back-end\\br.com.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ribei\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\Documento\\Desktop\\Ingles\\Back-end\\br.com.Model\\br.com.Model.csproj": {
+                "projectPath": "E:\\Documento\\Desktop\\Ingles\\Back-end\\br.com.Model\\br.com.Model.csproj"
+              },
+              "E:\\Documento\\Desktop\\Ingles\\Back-end\\br.com.Repository\\br.com.DAL.csproj": {
+                "projectPath": "E:\\Documento\\Desktop\\Ingles\\Back-end\\br.com.Repository\\br.com.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.11.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "PagedList.Mvc": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[111.3.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Documento\\Desktop\\Ingles\\Back-end\\br.com.Model\\br.com.Model.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\Documento\\Desktop\\Ingles\\Back-end\\br.com.Model\\br.com.Model.csproj",
+        "projectName": "br.com.Model",
+        "projectPath": "E:\\Documento\\Desktop\\Ingles\\Back-end\\br.com.Model\\br.com.Model.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "E:\\Documento\\Desktop\\Ingles\\Back-end\\br.com.Repository\\br.com.DAL.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\Documento\\Desktop\\Ingles\\Back-end\\br.com.Repository\\br.com.DAL.csproj",
+        "projectName": "br.com.DAL",
+        "projectPath": "E:\\Documento\\Desktop\\Ingles\\Back-end\\br.com.Repository\\br.com.DAL.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "E:\\Documento\\Desktop\\Ingles\\Back-end\\br.com.Model\\br.com.Model.csproj": {
+                "projectPath": "E:\\Documento\\Desktop\\Ingles\\Back-end\\br.com.Model\\br.com.Model.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}

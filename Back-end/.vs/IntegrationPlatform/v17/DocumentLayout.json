@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Documento\\Desktop\\Ingles\\Back-end\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94E44E62-DE66-49C5-9A7C-9ED8A8583293}|br.com.API\\br.com.API.csproj|e:\\documento\\desktop\\ingles\\back-end\\br.com.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E44E62-DE66-49C5-9A7C-9ED8A8583293}|br.com.API\\br.com.API.csproj|solutionrelative:br.com.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA9776E-5A4B-4099-9D37-AD55B31AA7E5}|br.com.Repository\\br.com.DAL.csproj|E:\\Documento\\Desktop\\Ingles\\Back-end\\br.com.repository\\br.com.repository\\br.com.management\\br.com.authentication\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA9776E-5A4B-4099-9D37-AD55B31AA7E5}|br.com.Repository\\br.com.DAL.csproj|solutionrelative:br.com.repository\\br.com.repository\\br.com.management\\br.com.authentication\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E44E62-DE66-49C5-9A7C-9ED8A8583293}|br.com.API\\br.com.API.csproj|e:\\documento\\desktop\\ingles\\back-end\\br.com.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E44E62-DE66-49C5-9A7C-9ED8A8583293}|br.com.API\\br.com.API.csproj|solutionrelative:br.com.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E44E62-DE66-49C5-9A7C-9ED8A8583293}|br.com.API\\br.com.API.csproj|e:\\documento\\desktop\\ingles\\back-end\\br.com.api\\controllers\\br.com.authentication\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E44E62-DE66-49C5-9A7C-9ED8A8583293}|br.com.API\\br.com.API.csproj|solutionrelative:br.com.api\\controllers\\br.com.authentication\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Documento\\Desktop\\Ingles\\Back-end\\br.com.API\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "br.com.API\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Documento\\Desktop\\Ingles\\Back-end\\br.com.API\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "br.com.API\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:12:19.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "E:\\Documento\\Desktop\\Ingles\\Back-end\\br.com.API\\Startup.cs",
+              "RelativeDocumentMoniker": "br.com.API\\Startup.cs",
+              "ToolTip": "E:\\Documento\\Desktop\\Ingles\\Back-end\\br.com.API\\Startup.cs",
+              "RelativeToolTip": "br.com.API\\Startup.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAkwFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:09:08.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Documento\\Desktop\\Ingles\\Back-end\\br.com.API\\Controllers\\br.com.Authentication\\UserController.cs",
+              "RelativeDocumentMoniker": "br.com.API\\Controllers\\br.com.Authentication\\UserController.cs",
+              "ToolTip": "E:\\Documento\\Desktop\\Ingles\\Back-end\\br.com.API\\Controllers\\br.com.Authentication\\UserController.cs",
+              "RelativeToolTip": "br.com.API\\Controllers\\br.com.Authentication\\UserController.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAgwGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T13:47:13.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\Documento\\Desktop\\Ingles\\Back-end\\br.com.Repository\\br.com.Repository\\br.com.Management\\br.com.Authentication\\UserRepository.cs",
+              "RelativeDocumentMoniker": "br.com.Repository\\br.com.Repository\\br.com.Management\\br.com.Authentication\\UserRepository.cs",
+              "ToolTip": "E:\\Documento\\Desktop\\Ingles\\Back-end\\br.com.Repository\\br.com.Repository\\br.com.Management\\br.com.Authentication\\UserRepository.cs",
+              "RelativeToolTip": "br.com.Repository\\br.com.Repository\\br.com.Management\\br.com.Authentication\\UserRepository.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAawDwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T13:44:46.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
