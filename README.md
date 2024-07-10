@@ -1,5 +1,6 @@
 # My project full IntegrationPlatform 📜
 
+My idea with this software project is to create a project that can be used to create a complete platform with login and the initial base for creating other pages, in the back-end a .NET Core solution that applies direct access to the database data without using ORM, which provides better performance in general.
 
 ## Main Technologies ☕️
 
