@@ -3,7 +3,7 @@
 
 ## Main Technologies ☕️
 
-VueJs, .NET Core, PostgreSQL, webpack.
+VueJs, .NET Core, PostgreSQL, Node.js Webpack.
 
 ## Component Breakdown: 🎉
 
